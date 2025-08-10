@@ -20,13 +20,13 @@ Validation AUC progression:
 Early stopping was not triggered, but `ModelCheckpoint` was used to save the best-performing model (highest validation AUC).  
 
 **Training Curve & AUC Plot:**  
-![Training Curve](images/training_curve.png)  
+![Training Curve](training_curve.png)  
 
 ## Kaggle Score
 - Public leaderboard AUC: **0.9414**  
 
 **Kaggle Submission Screenshot:**  
-![Kaggle Score](images/kaggle_score.png)  
+![Kaggle Score](kaggle_score.png)  
 
 ## References
 - [Kaggle Competition Page](https://www.kaggle.com/competitions/histopathologic-cancer-detection/leaderboard#)
