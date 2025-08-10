@@ -28,6 +28,5 @@ Early stopping was not triggered, but `ModelCheckpoint` was used to save the bes
 **Kaggle Submission Screenshot:**  
 ![Kaggle Score](images/kaggle_score.png)  
 
-
 ## References
 - [Kaggle Competition Page](https://www.kaggle.com/competitions/histopathologic-cancer-detection/leaderboard#)
