@@ -1,5 +1,7 @@
 # CNN Histopathologic Cancer Detection
 
+**Public Leaderboard AUC:** 0.9414 
+
 CNN-based histopathologic cancer detection project for Kaggle dataset.  
 Includes EDA, model building, training, evaluation, and discussion.  
 Developed as part of Coursera's Advanced Machine Learning course.
